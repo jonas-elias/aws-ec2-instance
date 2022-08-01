@@ -177,7 +177,17 @@ sudo systemctl reload apache2
 
 https://<public_ip>
 
+<img src='./images/website_worked.png'>
+
+### Configuration group security in AWS EC2 Manager
+
+<img src='./images/group_security_ips.png'>
+
 ## Contributing
-...
+
+```
+<jonas-elias/>
+```
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
