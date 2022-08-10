@@ -190,4 +190,4 @@ https://<public_ip>
 ```
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+MIT License - <jonas-elias/>
