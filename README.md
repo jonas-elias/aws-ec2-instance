@@ -190,4 +190,6 @@ https://<public_ip>
 ```
 
 ## License
+```bash
 MIT License - <jonas-elias/>
+```
